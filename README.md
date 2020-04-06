@@ -1,1 +1,1 @@
-A filter of bilibili player danmaku.
+A filter for bilibili player danmaku.
